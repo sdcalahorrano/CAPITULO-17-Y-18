@@ -8,6 +8,15 @@ Investigar, redactar y elaborar síntesis de dos capítulos del libro de Princip
 
 OBJETIVOS ESPECIFICOS
 
+- Determinar la impedancia de un circuito RLC en serie
+- Determinar la impedancia de un circuito RLC en paralelo
+- Analizar circuitos RLC en serie-paralelo
+- Determinar el ancho de banda de circuitos resonantes
+- Examinar algunas aplicaciones de circuitos resonantes
+- Analizar la operación de filtros pasabajas RC y RL
+- Analizar la operación de filtros pasaaltas RC y RL
+- Analizar la operación de filtros pasabanda
+- Analizar la operación de filtros rechazabanda
 
 # 2. MARCO TEÓRICO
 
@@ -197,7 +206,8 @@ https://youtu.be/eQ5rGN--mk4
 
 # 5. CONCLUSIONES
 
-
+- Los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es importante en muchos tipos de aplicaciones. La resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones. 
+- Los filtros pasivos pueden clasificarse en cuatro categorías generales de acuerdo con sus características de respuesta: pasabajas, pasaaltas, pasabanda y rechazabanda. Dentro de cada categoría, existen varios tipos comunes que serán examinados.
 
 # 6. BIBLIOGRAFÍA
 
